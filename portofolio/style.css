@@ -1,0 +1,65 @@
+h1,p{
+    display: block;
+    display: flex;
+    margin:3% auto;
+    text-align: center;
+    justify-content: center;
+    filter: drop-shadow(2px 2px 8px rgba(214, 214, 3, 0.848));
+   color: #fff;
+}
+body{
+    background-color:rgba(216, 162, 14, 0.279);
+    background-image: url(ima.jpg);
+    background-repeat: no-repeat;
+  background-size: cover; /* ajusta para ocupar todo o espaço da tela */
+  background-position: center;
+    background-image: repeating-linear-gradient();
+    color: #fff(106, 28, 28, 0.774);
+    
+}
+img{
+width: 150px;
+height: 150px;
+border-radius: 100px;
+display: block;
+display: flexbox;
+margin: auto;
+}
+h4{
+    color: #fff(8, 151, 96, 0.09);
+}
+footer{
+    display: flexbox;
+    align-items: baseline;
+    text-align: center;
+color: rgba(202, 220, 230, 0.097);
+    margin: auto;
+    
+}
+a{
+    background-color: aqua;
+    padding: 1%;
+    border-radius: 2%;
+    border: nome;
+margin-bottom:
+    color:#fff;
+  display: inline-block;
+
+  background-color: #007BFF; /* cor de fundo */
+  color: white; /* cor do texto */
+  text-decoration: none; /* remove o sublinhado padrão */
+  border-radius: 5px; /* cantos arredondados */
+  font-weight: bold;
+  transition: background-color 0.3s ease; /* suaviza o efeito ao passar o mouse */
+}
+
+a:hover {
+  background-color: #0056b3; /* cor ao passar o mouse */
+}
+}
+ul{
+    color: #fff;
+}
+h2,h3,h4{
+    color: #fff;
+}
